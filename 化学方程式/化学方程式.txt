@@ -1,0 +1,19 @@
+CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1		
+CCc1nc(N)nc(N)c1-c1ccc(Cl)c(Cl)c1		
+Cc1nc(N)nc(N)c1-c1ccc(Cl)c(Cl)c1		
+CCOCc1nc(N)nc(N)c1-c1ccc(Cl)c(Cl)c1		
+Nc1nc(N)c(-c2ccc(Cl)cc2)c(COc2ccc([N+](=O)[O-])cc2)n1		
+Nc1nc(N)c(-c2ccc(Cl)c(Cl)c2)c(C=CCc2ccccc2)n1		
+Nc1nc(N)c(-c2ccc(Cl)c(Cl)c2)c(COc2ccccc2)n1		
+Nc1nc(N)c(-c2ccc(Cl)c(Cl)c2)c(COc2cccc3ccccc23)n1		
+Nc1nc(N)c(-c2ccc(Cl)c(Cl)c2)c(C=Cc2ccc3ccccc3c2)n1		
+N#CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1		
+Nc1nc(N)c(-c2ccc(Cl)cc2)c(C(F)(F)F)n1	>	
+Nc1nc(N)c(-c2ccc(Cl)cc2)c(CNc2ccc([N+](=O)[O-])cc2)n1		
+CCc1nc(N)nc(N)c1-c1ccc(Cl)c([N+](=O)[O-])c1		
+CCc1nc(N)nc(N)c1-c1ccc(Cl)c(N=[N+]=[N-])c1		
+CCc1nc(N)nc(N)c1-c1ccc(N2CCCCC2)c([N+](=O)[O-])c1		
+CCc1nc(N)nc(N)c1-c1ccc(Cl)c([N+]#N)c1		
+CCc1nc(N)nc(N)c1-c1ccc(Cl)c(N=NN(C)C)c1		
+CCc1nc(N)nc(N)c1-c1ccc(Cl)c(N=CN(C)C)c1		
+CCc1nc(N)nc(N)c1-c1ccc(N2CCCCC2)cc1
